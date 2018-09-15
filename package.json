@@ -1,6 +1,6 @@
 {
 	"name": "mint-csv-parser",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "parses and formats downloaded mint csv files",
 	"engines": {
 		"node": ">=8.2.1"

@@ -75,4 +75,4 @@ const parseMintCsv = (file) => {
     });
 }
 
- module.exports = parseMintCsv
+ export default parseMintCsv
