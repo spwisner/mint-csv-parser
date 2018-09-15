@@ -1,0 +1,26 @@
+{
+	"name": "mint-csv-parser",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha --reporter spec",
+		"cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+  	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/spwisner/mint-csv-parser.git"
+	},
+	"author": "“Steve <“steve@stevewisner.com”> (www.stevewisner.com)",
+	"license": "ISC",
+  	"bugs": {
+		"url": "https://github.com/spwisner/mint-csv-parser/issues"
+  	},
+  	"homepage": "https://github.com/spwisner/mint-csv-parser#readme",
+  	"devDependencies": {
+		"chai": "^4.1.2",
+		"coveralls": "^3.0.2",
+		"istanbul": "^0.4.5",
+		"mocha": "^5.2.0"
+  	}
+}
