@@ -1,5 +1,5 @@
 {
-	"name": "@spwisner/mint-csv-parser",
+	"name": "mint-csv-parser",
 	"version": "1.0.0",
 	"description": "parses and formats downloaded mint csv files",
 	"engines": {
